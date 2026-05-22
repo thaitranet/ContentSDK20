@@ -71,6 +71,7 @@
     <None Include="web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\Z.ServerTimeZone.config" />
     <Folder Include="App_Config\Include\" />
   </ItemGroup>
   <PropertyGroup>
